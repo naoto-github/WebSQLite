@@ -1,7 +1,5 @@
 #! /anaconda3/bin/python
 
-# ↑環境に合わせて修正が必要
-
 import sqlite3
 import cgi
 
